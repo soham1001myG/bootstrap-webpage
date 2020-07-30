@@ -2,4 +2,4 @@
 
 Made a webpage using bootstrap.
 
-https://soham1001myg.github.io/bootstrap-webpage/index.html
+https://sohammyg.github.io/bootstrap-webpage/index.html
